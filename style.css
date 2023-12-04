@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+}
+p.one{
+    background-color: aqua;
+    display: inline;
+}
+p.two{
+    background-color: yellow;
+    display: none;
+}
+p.three{
+    background-color: yellowgreen;
+    display: inline;
+}
+input{
+    display: block;
+    margin: 10px;
+}
+span{
+    display: inherit;
+}
+div{
+    margin: 40px;
+    display: inline;
+}
